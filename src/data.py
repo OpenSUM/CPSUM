@@ -89,6 +89,7 @@ class CPSUMDataModule:
             "text_max_len": self.text_max_len,
             "max_text_ntokens_per_sent": self.max_text_ntokens_per_sent,
             "min_text_ntokens_per_sent": self.min_text_ntokens_per_sent,
+            "tokenizer_name_or_path": self.tokenizer_name_or_path
         }
 
         self.train_filename = os.path.join("./data", self.dataset_name, supervised_filename)
