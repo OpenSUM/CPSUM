@@ -5,12 +5,12 @@ Source codes and data for COLING 2022 Paper "<a href="https://aclanthology.org/2
 
 ## Data
 
-You may first download complete dataset in Google Drive (URLs are in the table below) or <a href="">Baidu Netdisk</a>, and then overwrite the empty jsonl files in the "Data" folder.
+You may first download complete dataset in Google Drive (URLs are in the table below) or <a href="https://pan.baidu.com/s/1rcRRUevdscAn9_TBWVBEtQ#list/path=%2F&parentPath=%2F">Baidu Netdisk</a>, and then overwrite the empty jsonl files in the "Data" folder.
 
 |     | supervised train data | unsupervised train data | validation | test |
 |  ----  | ----  | ---- | ---- | ---- |
-| cnndm  | <a href="">train.jsonl</a> | <a href="">unsupervised_data.jsonl</a> | <a href="">val.jsonl</a> | <a href="">test.jsonl</a> |
-| xsum  | <a href="">train.jsonl</a> | <a href="">unsupervised_data.jsonl</a> | <a href="">val.jsonl</a> | <a href="">test.jsonl</a> |
+| cnndm  | <a href="https://drive.google.com/drive/folders/1_iSISpr7Qgie3HheaHEB5mhRDjoOezQh?usp=sharing">train.jsonl</a> | <a href="">unsupervised_data.jsonl</a> | <a href="https://drive.google.com/drive/folders/1_iSISpr7Qgie3HheaHEB5mhRDjoOezQh?usp=sharing">val.jsonl</a> | <a href="https://drive.google.com/drive/folders/1_iSISpr7Qgie3HheaHEB5mhRDjoOezQh?usp=sharing">test.jsonl</a> |
+| xsum  | <a href="https://drive.google.com/drive/folders/1RTvmPyVUZjQ93SD17BleyNp1TEMArQSk">train.jsonl</a> | <a href="">unsupervised_data.jsonl</a> | <a href="https://drive.google.com/drive/folders/1RTvmPyVUZjQ93SD17BleyNp1TEMArQSk">val.jsonl</a> | <a href="https://drive.google.com/drive/folders/1RTvmPyVUZjQ93SD17BleyNp1TEMArQSk">test.jsonl</a> |
 
 
 You can manually select a specific amount of labeled data(10/100/1000) according to your needs (recommended), or without any pre-processing, the program will automatically select data at the top of data files.
